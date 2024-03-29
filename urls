@@ -1,0 +1,6 @@
+books : https://opentdb.com/api.php?amount=20&category=10&type=multiple
+films: https://opentdb.com/api.php?amount=20&category=11&type=multiple
+music: https://opentdb.com/api.php?amount=20&category=12&type=multiple
+computers: https://opentdb.com/api.php?amount=20&category=18&type=multiple
+art: https://opentdb.com/api.php?amount=20&category=25&type=multiple
+muthodology: https://opentdb.com/api.php?amount=20&category=20&type=multiple
