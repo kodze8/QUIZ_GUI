@@ -7,8 +7,6 @@ from functools import partial
 categories = list(map_category.keys())
 category_map = map
 
-
-# BRAVA
 class Screens:
 
     def __init__(self):
